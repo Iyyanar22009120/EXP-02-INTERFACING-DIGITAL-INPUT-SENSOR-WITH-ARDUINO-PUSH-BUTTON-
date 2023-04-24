@@ -67,7 +67,29 @@ FIGURE -03
 
 
 PROGRAM 
- 
+ ```
+ int buttonstate =0;
+
+void setup()
+{
+  pinMode(2,INPUT);
+  pinMode(13,OUTPUT);
+}
+void loop()
+{
+  buttonstate=digitalRead(2);//
+  if(buttonstate==HIGH)
+  {
+  digitalWrite(13, HIGH);
+  }else
+  {
+    digitalWrite(13, LOW);
+  }
+     delay(15);//
+  
+  
+}
+```
  
  
  
@@ -76,6 +98,8 @@ PROGRAM
 
 
 Output of the simulation :
-
-[My image](username.github.com/repository/img/image.jpg)
-
+oncondition
+![Screenshot (32)](https://user-images.githubusercontent.com/118680259/233992330-c731de4b-0753-45fa-a779-e9d2effec21f.png)
+off condition
+RESULT
+Arduino uno analog input functioning is learned and interfaced with digital input switch .

@@ -101,7 +101,10 @@ void loop()
 ## oncondition
 ![Screenshot (32)](https://user-images.githubusercontent.com/118680259/233992330-c731de4b-0753-45fa-a779-e9d2effec21f.png)
 ## off condition
-![Uploading Screenshot (33).png…]()
+![Screenshot (34)](https://user-images.githubusercontent.com/118680259/233994316-1fb68b30-6ea5-4de8-825c-ae96d93bd778.png)
+
+
+
 
 ## RESULT
 Arduino uno analog input functioning is learned and interfaced with digital input switch .

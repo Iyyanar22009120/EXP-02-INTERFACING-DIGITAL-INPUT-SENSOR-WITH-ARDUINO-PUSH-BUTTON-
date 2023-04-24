@@ -66,7 +66,7 @@ FIGURE -03
 
 
 
-PROGRAM 
+## PROGRAM 
  ```
  int buttonstate =0;
 
@@ -97,9 +97,11 @@ void loop()
 
 
 
-Output of the simulation :
-oncondition
+## Output of the simulation :
+## oncondition
 ![Screenshot (32)](https://user-images.githubusercontent.com/118680259/233992330-c731de4b-0753-45fa-a779-e9d2effec21f.png)
-off condition
-RESULT
+## off condition
+![Uploading Screenshot (33).png…]()
+
+## RESULT
 Arduino uno analog input functioning is learned and interfaced with digital input switch .

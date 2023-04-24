@@ -98,10 +98,12 @@ void loop()
 
 
 ## Output of the simulation :
-## oncondition
-![Screenshot (32)](https://user-images.githubusercontent.com/118680259/233992330-c731de4b-0753-45fa-a779-e9d2effec21f.png)
-## off condition
-![Screenshot (34)](https://user-images.githubusercontent.com/118680259/233994316-1fb68b30-6ea5-4de8-825c-ae96d93bd778.png)
+## before stimulation
+![robo 3](https://user-images.githubusercontent.com/118680259/233998246-e6e4e328-cbef-4cad-94d0-27a08e01e393.png)
+
+## after stimulation
+![robo 1](https://user-images.githubusercontent.com/118680259/233997403-770d83db-bf57-4a6c-a5fe-e320c41423a8.png)
+
 
 
 
